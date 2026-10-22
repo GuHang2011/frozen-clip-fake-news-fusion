@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and this repository."
+title: "Frozen CLIP fake-news fusion analysis"
+version: "0.1.0"
+date-released: 2026-10-22
+authors:
+  - family-names: Gu
+    given-names: Hang
+  - family-names: Feng
+    given-names: Hui
+  - family-names: Zhang
+    given-names: Min
+  - family-names: Wang
+    given-names: Qisen
+  - family-names: Zhao
+    given-names: Ruixiao
+  - family-names: Li
+    given-names: Mengqiang
+preferred-citation:
+  type: article
+  title: "Where do fusion gains come from in low-resource multimodal fake news detection? Operating points, archive artifacts and frozen CLIP baselines"
+  authors:
+    - family-names: Gu
+      given-names: Hang
+    - family-names: Feng
+      given-names: Hui
+    - family-names: Zhang
+      given-names: Min
+    - family-names: Wang
+      given-names: Qisen
+    - family-names: Zhao
+      given-names: Ruixiao
+    - family-names: Li
+      given-names: Mengqiang
+  journal: Neurocomputing

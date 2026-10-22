@@ -1,0 +1,1946 @@
+[
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "LP(T)",
+  "seed": 42,
+  "pred_fake": 0.0,
+  "f1": 41.11111111111111,
+  "bacc": 50.0
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "LP(T)",
+  "seed": 1,
+  "pred_fake": 50.943396226415096,
+  "f1": 62.82761166482096,
+  "bacc": 67.22972972972974
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "LP(T)",
+  "seed": 2,
+  "pred_fake": 22.641509433962266,
+  "f1": 75.73260073260073,
+  "bacc": 74.07094594594594
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "LP(I)",
+  "seed": 42,
+  "pred_fake": 3.7735849056603774,
+  "f1": 39.77272727272727,
+  "bacc": 47.2972972972973
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "LP(I)",
+  "seed": 1,
+  "pred_fake": 9.433962264150944,
+  "f1": 61.40056022408964,
+  "bacc": 61.14864864864865
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "LP(I)",
+  "seed": 2,
+  "pred_fake": 49.056603773584904,
+  "f1": 72.39583333333333,
+  "bacc": 77.53378378378379
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "LP(T+I)",
+  "seed": 42,
+  "pred_fake": 0.0,
+  "f1": 41.11111111111111,
+  "bacc": 50.0
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "LP(T+I)",
+  "seed": 1,
+  "pred_fake": 16.9811320754717,
+  "f1": 71.20987654320987,
+  "bacc": 69.1722972972973
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "LP(T+I)",
+  "seed": 2,
+  "pred_fake": 32.075471698113205,
+  "f1": 75.79908675799086,
+  "bacc": 76.26689189189189
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "LP(T+I+K)",
+  "seed": 42,
+  "pred_fake": 0.0,
+  "f1": 41.11111111111111,
+  "bacc": 50.0
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "LP(T+I+K)",
+  "seed": 1,
+  "pred_fake": 15.09433962264151,
+  "f1": 67.68292682926828,
+  "bacc": 66.0472972972973
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "LP(T+I+K)",
+  "seed": 2,
+  "pred_fake": 30.18867924528302,
+  "f1": 77.61824324324324,
+  "bacc": 77.61824324324324
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "MLP(T+I)",
+  "seed": 42,
+  "pred_fake": 0.0,
+  "f1": 41.11111111111111,
+  "bacc": 50.0
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "MLP(T+I)",
+  "seed": 1,
+  "pred_fake": 28.30188679245283,
+  "f1": 79.48387096774195,
+  "bacc": 78.9695945945946
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "MLP(T+I)",
+  "seed": 2,
+  "pred_fake": 45.28301886792453,
+  "f1": 79.92424242424244,
+  "bacc": 84.71283783783784
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "MLP(T+I+K)",
+  "seed": 42,
+  "pred_fake": 5.660377358490567,
+  "f1": 51.90562613430127,
+  "bacc": 54.89864864864865
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "MLP(T+I+K)",
+  "seed": 1,
+  "pred_fake": 22.641509433962266,
+  "f1": 75.73260073260073,
+  "bacc": 74.07094594594594
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "MLP(T+I+K)",
+  "seed": 2,
+  "pred_fake": 24.528301886792452,
+  "f1": 78.6386027765338,
+  "bacc": 77.19594594594594
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "Tip(T+I)",
+  "seed": 42,
+  "pred_fake": 1.8867924528301887,
+  "f1": 47.45538664904164,
+  "bacc": 53.125
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "Tip(T+I)",
+  "seed": 1,
+  "pred_fake": 18.867924528301888,
+  "f1": 69.42307692307692,
+  "bacc": 67.82094594594594
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "Tip(T+I)",
+  "seed": 2,
+  "pred_fake": 30.18867924528302,
+  "f1": 77.61824324324324,
+  "bacc": 77.61824324324324
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "FCP-fixed",
+  "seed": 42,
+  "pred_fake": 1.8867924528301887,
+  "f1": 47.45538664904164,
+  "bacc": 53.125
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "FCP-fixed",
+  "seed": 1,
+  "pred_fake": 15.09433962264151,
+  "f1": 62.29674796747967,
+  "bacc": 61.570945945945944
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "FCP-fixed",
+  "seed": 2,
+  "pred_fake": 26.41509433962264,
+  "f1": 67.45614035087719,
+  "bacc": 66.89189189189189
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "FCP-tuned",
+  "seed": 42,
+  "pred_fake": 9.433962264150944,
+  "f1": 55.46218487394958,
+  "bacc": 56.672297297297305
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "FCP-tuned",
+  "seed": 1,
+  "pred_fake": 15.09433962264151,
+  "f1": 62.29674796747967,
+  "bacc": 61.570945945945944
+ },
+ {
+  "dataset": "politifact",
+  "shot": "2",
+  "method": "FCP-tuned",
+  "seed": 2,
+  "pred_fake": 26.41509433962264,
+  "f1": 67.45614035087719,
+  "bacc": 66.89189189189189
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "LP(T)",
+  "seed": 42,
+  "pred_fake": 45.28301886792453,
+  "f1": 55.833333333333336,
+  "bacc": 57.85472972972974
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "LP(T)",
+  "seed": 1,
+  "pred_fake": 62.264150943396224,
+  "f1": 63.94557823129252,
+  "bacc": 72.55067567567568
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "LP(T)",
+  "seed": 2,
+  "pred_fake": 39.62264150943396,
+  "f1": 77.16412064238152,
+  "bacc": 79.8141891891892
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "LP(I)",
+  "seed": 42,
+  "pred_fake": 73.58490566037736,
+  "f1": 37.64705882352941,
+  "bacc": 46.53716216216216
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "LP(I)",
+  "seed": 1,
+  "pred_fake": 28.30188679245283,
+  "f1": 84.04301075268816,
+  "bacc": 83.44594594594594
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "LP(I)",
+  "seed": 2,
+  "pred_fake": 52.83018867924528,
+  "f1": 76.68621700879766,
+  "bacc": 83.78378378378379
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "LP(T+I)",
+  "seed": 42,
+  "pred_fake": 54.71698113207547,
+  "f1": 55.591985428051004,
+  "bacc": 60.05067567567568
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "LP(T+I)",
+  "seed": 1,
+  "pred_fake": 43.39622641509434,
+  "f1": 81.7451205510907,
+  "bacc": 86.0641891891892
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "LP(T+I)",
+  "seed": 2,
+  "pred_fake": 47.16981132075472,
+  "f1": 78.12382739212008,
+  "bacc": 83.36148648648648
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "LP(T+I+K)",
+  "seed": 42,
+  "pred_fake": 56.60377358490566,
+  "f1": 53.91304347826087,
+  "bacc": 58.69932432432432
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "LP(T+I+K)",
+  "seed": 1,
+  "pred_fake": 43.39622641509434,
+  "f1": 81.7451205510907,
+  "bacc": 86.0641891891892
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "LP(T+I+K)",
+  "seed": 2,
+  "pred_fake": 49.056603773584904,
+  "f1": 76.33928571428572,
+  "bacc": 82.01013513513513
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "MLP(T+I)",
+  "seed": 42,
+  "pred_fake": 15.09433962264151,
+  "f1": 40.7520325203252,
+  "bacc": 43.66554054054054
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "MLP(T+I)",
+  "seed": 1,
+  "pred_fake": 49.056603773584904,
+  "f1": 76.33928571428572,
+  "bacc": 82.01013513513513
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "MLP(T+I)",
+  "seed": 2,
+  "pred_fake": 45.28301886792453,
+  "f1": 75.9090909090909,
+  "bacc": 80.23648648648648
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "MLP(T+I+K)",
+  "seed": 42,
+  "pred_fake": 30.18867924528302,
+  "f1": 55.23648648648649,
+  "bacc": 55.23648648648649
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "MLP(T+I+K)",
+  "seed": 1,
+  "pred_fake": 30.18867924528302,
+  "f1": 82.0945945945946,
+  "bacc": 82.0945945945946
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "MLP(T+I+K)",
+  "seed": 2,
+  "pred_fake": 41.509433962264154,
+  "f1": 79.4891640866873,
+  "bacc": 82.9391891891892
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "Tip(T+I)",
+  "seed": 42,
+  "pred_fake": 5.660377358490567,
+  "f1": 45.49304295220811,
+  "bacc": 50.422297297297305
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "Tip(T+I)",
+  "seed": 1,
+  "pred_fake": 30.18867924528302,
+  "f1": 86.57094594594594,
+  "bacc": 86.57094594594594
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "Tip(T+I)",
+  "seed": 2,
+  "pred_fake": 33.9622641509434,
+  "f1": 82.6797385620915,
+  "bacc": 83.86824324324324
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "FCP-fixed",
+  "seed": 42,
+  "pred_fake": 37.735849056603776,
+  "f1": 62.142857142857146,
+  "bacc": 63.26013513513513
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "FCP-fixed",
+  "seed": 1,
+  "pred_fake": 15.09433962264151,
+  "f1": 62.29674796747967,
+  "bacc": 61.570945945945944
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "FCP-fixed",
+  "seed": 2,
+  "pred_fake": 24.528301886792452,
+  "f1": 73.89162561576354,
+  "bacc": 72.7195945945946
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "FCP-tuned",
+  "seed": 42,
+  "pred_fake": 66.0377358490566,
+  "f1": 60.32085561497327,
+  "bacc": 69.84797297297297
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "FCP-tuned",
+  "seed": 1,
+  "pred_fake": 15.09433962264151,
+  "f1": 62.29674796747967,
+  "bacc": 61.570945945945944
+ },
+ {
+  "dataset": "politifact",
+  "shot": "4",
+  "method": "FCP-tuned",
+  "seed": 2,
+  "pred_fake": 26.41509433962264,
+  "f1": 76.75438596491229,
+  "bacc": 75.8445945945946
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "LP(T)",
+  "seed": 42,
+  "pred_fake": 56.60377358490566,
+  "f1": 57.7536231884058,
+  "bacc": 63.17567567567568
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "LP(T)",
+  "seed": 1,
+  "pred_fake": 43.39622641509434,
+  "f1": 73.6318407960199,
+  "bacc": 77.11148648648648
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "LP(T)",
+  "seed": 2,
+  "pred_fake": 39.62264150943396,
+  "f1": 85.46807677242461,
+  "bacc": 88.76689189189189
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "LP(I)",
+  "seed": 42,
+  "pred_fake": 33.9622641509434,
+  "f1": 78.34967320261438,
+  "bacc": 79.39189189189189
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "LP(I)",
+  "seed": 1,
+  "pred_fake": 24.528301886792452,
+  "f1": 78.6386027765338,
+  "bacc": 77.19594594594594
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "LP(I)",
+  "seed": 2,
+  "pred_fake": 45.28301886792453,
+  "f1": 75.9090909090909,
+  "bacc": 80.23648648648648
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "LP(T+I)",
+  "seed": 42,
+  "pred_fake": 35.84905660377358,
+  "f1": 80.80482897384306,
+  "bacc": 82.51689189189189
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "LP(T+I)",
+  "seed": 1,
+  "pred_fake": 33.9622641509434,
+  "f1": 82.6797385620915,
+  "bacc": 83.86824324324324
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "LP(T+I)",
+  "seed": 2,
+  "pred_fake": 43.39622641509434,
+  "f1": 77.68848067355529,
+  "bacc": 81.58783783783784
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "LP(T+I+K)",
+  "seed": 42,
+  "pred_fake": 39.62264150943396,
+  "f1": 77.16412064238152,
+  "bacc": 79.8141891891892
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "LP(T+I+K)",
+  "seed": 1,
+  "pred_fake": 33.9622641509434,
+  "f1": 82.6797385620915,
+  "bacc": 83.86824324324324
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "LP(T+I+K)",
+  "seed": 2,
+  "pred_fake": 45.28301886792453,
+  "f1": 79.92424242424244,
+  "bacc": 84.71283783783784
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "MLP(T+I)",
+  "seed": 42,
+  "pred_fake": 20.754716981132077,
+  "f1": 77.63713080168776,
+  "bacc": 75.4222972972973
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "MLP(T+I)",
+  "seed": 1,
+  "pred_fake": 35.84905660377358,
+  "f1": 85.07042253521126,
+  "bacc": 86.99324324324324
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "MLP(T+I)",
+  "seed": 2,
+  "pred_fake": 45.28301886792453,
+  "f1": 83.93939393939394,
+  "bacc": 89.1891891891892
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "MLP(T+I+K)",
+  "seed": 42,
+  "pred_fake": 26.41509433962264,
+  "f1": 76.75438596491229,
+  "bacc": 75.8445945945946
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "MLP(T+I+K)",
+  "seed": 1,
+  "pred_fake": 24.528301886792452,
+  "f1": 78.6386027765338,
+  "bacc": 77.19594594594594
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "MLP(T+I+K)",
+  "seed": 2,
+  "pred_fake": 33.9622641509434,
+  "f1": 82.6797385620915,
+  "bacc": 83.86824324324324
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "Tip(T+I)",
+  "seed": 42,
+  "pred_fake": 18.867924528301888,
+  "f1": 69.42307692307692,
+  "bacc": 67.82094594594594
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "Tip(T+I)",
+  "seed": 1,
+  "pred_fake": 16.9811320754717,
+  "f1": 71.20987654320987,
+  "bacc": 69.1722972972973
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "Tip(T+I)",
+  "seed": 2,
+  "pred_fake": 20.754716981132077,
+  "f1": 82.6066572902016,
+  "bacc": 79.89864864864865
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "FCP-fixed",
+  "seed": 42,
+  "pred_fake": 32.075471698113205,
+  "f1": 66.99875466998755,
+  "bacc": 67.3141891891892
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "FCP-fixed",
+  "seed": 1,
+  "pred_fake": 20.754716981132077,
+  "f1": 77.63713080168776,
+  "bacc": 75.4222972972973
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "FCP-fixed",
+  "seed": 2,
+  "pred_fake": 24.528301886792452,
+  "f1": 78.6386027765338,
+  "bacc": 77.19594594594594
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "FCP-tuned",
+  "seed": 42,
+  "pred_fake": 32.075471698113205,
+  "f1": 66.99875466998755,
+  "bacc": 67.3141891891892
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "FCP-tuned",
+  "seed": 1,
+  "pred_fake": 18.867924528301888,
+  "f1": 74.51923076923077,
+  "bacc": 72.2972972972973
+ },
+ {
+  "dataset": "politifact",
+  "shot": "8",
+  "method": "FCP-tuned",
+  "seed": 2,
+  "pred_fake": 24.528301886792452,
+  "f1": 78.6386027765338,
+  "bacc": 77.19594594594594
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "LP(T)",
+  "seed": 42,
+  "pred_fake": 64.15094339622641,
+  "f1": 58.35714285714286,
+  "bacc": 66.72297297297297
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "LP(T)",
+  "seed": 1,
+  "pred_fake": 60.37735849056604,
+  "f1": 65.73275862068965,
+  "bacc": 73.90202702702703
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "LP(T)",
+  "seed": 2,
+  "pred_fake": 35.84905660377358,
+  "f1": 85.07042253521126,
+  "bacc": 86.99324324324324
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "LP(I)",
+  "seed": 42,
+  "pred_fake": 33.9622641509434,
+  "f1": 82.6797385620915,
+  "bacc": 83.86824324324324
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "LP(I)",
+  "seed": 1,
+  "pred_fake": 33.9622641509434,
+  "f1": 78.34967320261438,
+  "bacc": 79.39189189189189
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "LP(I)",
+  "seed": 2,
+  "pred_fake": 49.056603773584904,
+  "f1": 76.33928571428572,
+  "bacc": 82.01013513513513
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "LP(T+I)",
+  "seed": 42,
+  "pred_fake": 45.28301886792453,
+  "f1": 79.92424242424244,
+  "bacc": 84.71283783783784
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "LP(T+I)",
+  "seed": 1,
+  "pred_fake": 41.509433962264154,
+  "f1": 83.59133126934985,
+  "bacc": 87.41554054054055
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "LP(T+I)",
+  "seed": 2,
+  "pred_fake": 45.28301886792453,
+  "f1": 83.93939393939394,
+  "bacc": 89.1891891891892
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "LP(T+I+K)",
+  "seed": 42,
+  "pred_fake": 50.943396226415096,
+  "f1": 74.56626061277224,
+  "bacc": 80.65878378378379
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "LP(T+I+K)",
+  "seed": 1,
+  "pred_fake": 41.509433962264154,
+  "f1": 83.59133126934985,
+  "bacc": 87.41554054054055
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "LP(T+I+K)",
+  "seed": 2,
+  "pred_fake": 43.39622641509434,
+  "f1": 85.80176042862611,
+  "bacc": 90.54054054054055
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "MLP(T+I)",
+  "seed": 42,
+  "pred_fake": 32.075471698113205,
+  "f1": 88.99958488999584,
+  "bacc": 89.69594594594594
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "MLP(T+I)",
+  "seed": 1,
+  "pred_fake": 33.9622641509434,
+  "f1": 87.00980392156863,
+  "bacc": 88.3445945945946
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "MLP(T+I)",
+  "seed": 2,
+  "pred_fake": 35.84905660377358,
+  "f1": 89.33601609657947,
+  "bacc": 91.4695945945946
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "MLP(T+I+K)",
+  "seed": 42,
+  "pred_fake": 33.9622641509434,
+  "f1": 87.00980392156863,
+  "bacc": 88.3445945945946
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "MLP(T+I+K)",
+  "seed": 1,
+  "pred_fake": 24.528301886792452,
+  "f1": 78.6386027765338,
+  "bacc": 77.19594594594594
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "MLP(T+I+K)",
+  "seed": 2,
+  "pred_fake": 28.30188679245283,
+  "f1": 84.04301075268816,
+  "bacc": 83.44594594594594
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "Tip(T+I)",
+  "seed": 42,
+  "pred_fake": 28.30188679245283,
+  "f1": 65.80645161290323,
+  "bacc": 65.54054054054055
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "Tip(T+I)",
+  "seed": 1,
+  "pred_fake": 26.41509433962264,
+  "f1": 81.40350877192982,
+  "bacc": 80.32094594594594
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "Tip(T+I)",
+  "seed": 2,
+  "pred_fake": 20.754716981132077,
+  "f1": 77.63713080168776,
+  "bacc": 75.4222972972973
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "FCP-fixed",
+  "seed": 42,
+  "pred_fake": 54.71698113207547,
+  "f1": 59.4535519125683,
+  "bacc": 64.52702702702703
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "FCP-fixed",
+  "seed": 1,
+  "pred_fake": 22.641509433962266,
+  "f1": 80.58608058608058,
+  "bacc": 78.5472972972973
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "FCP-fixed",
+  "seed": 2,
+  "pred_fake": 26.41509433962264,
+  "f1": 81.40350877192982,
+  "bacc": 80.32094594594594
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "FCP-tuned",
+  "seed": 42,
+  "pred_fake": 32.075471698113205,
+  "f1": 62.59858862598588,
+  "bacc": 62.83783783783784
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "FCP-tuned",
+  "seed": 1,
+  "pred_fake": 20.754716981132077,
+  "f1": 82.6066572902016,
+  "bacc": 79.89864864864865
+ },
+ {
+  "dataset": "politifact",
+  "shot": "16",
+  "method": "FCP-tuned",
+  "seed": 2,
+  "pred_fake": 26.41509433962264,
+  "f1": 81.40350877192982,
+  "bacc": 80.32094594594594
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "LP(T)",
+  "seed": 42,
+  "pred_fake": 81.1949069539667,
+  "f1": 38.73057393445145,
+  "bacc": 57.208786907444434
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "LP(T)",
+  "seed": 1,
+  "pred_fake": 71.89030362389815,
+  "f1": 45.932888357095834,
+  "bacc": 60.34387000539528
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "LP(T)",
+  "seed": 2,
+  "pred_fake": 75.1224289911851,
+  "f1": 39.65998925473942,
+  "bacc": 53.902588678367024
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "LP(I)",
+  "seed": 42,
+  "pred_fake": 54.84818805093046,
+  "f1": 51.25472778131241,
+  "bacc": 58.294984501782565
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "LP(I)",
+  "seed": 1,
+  "pred_fake": 64.44662095984329,
+  "f1": 44.085595807949296,
+  "bacc": 53.34692733293134
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "LP(I)",
+  "seed": 2,
+  "pred_fake": 70.51909892262488,
+  "f1": 44.67946071369109,
+  "bacc": 57.733240238238814
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "LP(T+I)",
+  "seed": 42,
+  "pred_fake": 77.179236043095,
+  "f1": 39.563252332969725,
+  "bacc": 55.25326097305532
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "LP(T+I)",
+  "seed": 1,
+  "pred_fake": 75.41625857002938,
+  "f1": 41.52432373315988,
+  "bacc": 56.68010198144445
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "LP(T+I)",
+  "seed": 2,
+  "pred_fake": 79.33398628795298,
+  "f1": 37.94099769832834,
+  "bacc": 54.64946523215589
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "LP(T+I+K)",
+  "seed": 42,
+  "pred_fake": 78.45249755142018,
+  "f1": 39.44037500287932,
+  "bacc": 56.03795740899425
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "LP(T+I+K)",
+  "seed": 1,
+  "pred_fake": 71.4005876591577,
+  "f1": 43.847159724625975,
+  "bacc": 57.154834068573
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "LP(T+I+K)",
+  "seed": 2,
+  "pred_fake": 73.65328109696377,
+  "f1": 42.47003882833461,
+  "bacc": 56.756799644546
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "MLP(T+I)",
+  "seed": 42,
+  "pred_fake": 21.351616062683643,
+  "f1": 60.355825207418356,
+  "bacc": 60.02226876976948
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "MLP(T+I)",
+  "seed": 1,
+  "pred_fake": 80.01958863858962,
+  "f1": 37.02859009337893,
+  "bacc": 53.929565097802744
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "MLP(T+I)",
+  "seed": 2,
+  "pred_fake": 87.75710088148874,
+  "f1": 31.60356124400472,
+  "bacc": 53.17290298010092
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "MLP(T+I+K)",
+  "seed": 42,
+  "pred_fake": 70.12732615083252,
+  "f1": 44.65389366616696,
+  "bacc": 57.45025230886414
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "MLP(T+I+K)",
+  "seed": 1,
+  "pred_fake": 69.1478942213516,
+  "f1": 43.991797596931136,
+  "bacc": 55.9326964782549
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "MLP(T+I+K)",
+  "seed": 2,
+  "pred_fake": 84.23114593535749,
+  "f1": 35.430720940179604,
+  "bacc": 55.21649898970664
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "Tip(T+I)",
+  "seed": 42,
+  "pred_fake": 64.64250734573947,
+  "f1": 40.934860580816846,
+  "bacc": 49.16796259269838
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "Tip(T+I)",
+  "seed": 1,
+  "pred_fake": 65.62193927522037,
+  "f1": 41.658671080165746,
+  "bacc": 50.68551842330762
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "Tip(T+I)",
+  "seed": 2,
+  "pred_fake": 64.64250734573947,
+  "f1": 40.934860580816846,
+  "bacc": 49.16796259269838
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "FCP-fixed",
+  "seed": 42,
+  "pred_fake": 27.52203721841332,
+  "f1": 57.89860101177725,
+  "bacc": 58.403683603626476
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "FCP-fixed",
+  "seed": 1,
+  "pred_fake": 24.681684622918706,
+  "f1": 55.334208275384746,
+  "bacc": 55.40692077395877
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "FCP-fixed",
+  "seed": 2,
+  "pred_fake": 30.166503428011755,
+  "f1": 57.86954029074629,
+  "bacc": 58.82869444708919
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "FCP-tuned",
+  "seed": 42,
+  "pred_fake": 27.52203721841332,
+  "f1": 57.89860101177725,
+  "bacc": 58.403683603626476
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "FCP-tuned",
+  "seed": 1,
+  "pred_fake": 19.980411361410383,
+  "f1": 56.60894994845469,
+  "bacc": 56.33152432638293
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "2",
+  "method": "FCP-tuned",
+  "seed": 2,
+  "pred_fake": 20.66601371204701,
+  "f1": 59.49716485979649,
+  "bacc": 59.12199688977753
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "LP(T)",
+  "seed": 42,
+  "pred_fake": 66.2095984329089,
+  "f1": 46.280705052241345,
+  "bacc": 57.320659705692556
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "LP(T)",
+  "seed": 1,
+  "pred_fake": 67.09108716944172,
+  "f1": 47.853339936853835,
+  "bacc": 59.982597564716954
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "LP(T)",
+  "seed": 2,
+  "pred_fake": 52.007835455435846,
+  "f1": 53.60187970231254,
+  "bacc": 60.15873771515017
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "LP(I)",
+  "seed": 42,
+  "pred_fake": 46.42507345739471,
+  "f1": 53.46511933896476,
+  "bacc": 57.8813460704349
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "LP(I)",
+  "seed": 1,
+  "pred_fake": 61.116552399608224,
+  "f1": 43.17337848781565,
+  "bacc": 50.401472595131544
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "LP(I)",
+  "seed": 2,
+  "pred_fake": 60.235063663075415,
+  "f1": 49.54659642159642,
+  "bacc": 58.540681498407864
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "LP(T+I)",
+  "seed": 42,
+  "pred_fake": 59.74534769833496,
+  "f1": 51.175635983226464,
+  "bacc": 60.48219027367841
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "LP(T+I)",
+  "seed": 1,
+  "pred_fake": 68.46229187071499,
+  "f1": 46.79212507237985,
+  "bacc": 59.352883303183226
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "LP(T+I)",
+  "seed": 2,
+  "pred_fake": 56.415279138099905,
+  "f1": 54.02815590877733,
+  "bacc": 62.667280247971476
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "LP(T+I+K)",
+  "seed": 42,
+  "pred_fake": 65.52399608227229,
+  "f1": 47.689799720540286,
+  "bacc": 58.85064584721825
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "LP(T+I+K)",
+  "seed": 1,
+  "pred_fake": 70.12732615083252,
+  "f1": 45.24372783668738,
+  "bacc": 58.26033831603669
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "LP(T+I+K)",
+  "seed": 2,
+  "pred_fake": 53.86875612144956,
+  "f1": 55.57091322490527,
+  "bacc": 63.52814539761127
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "MLP(T+I)",
+  "seed": 42,
+  "pred_fake": 18.02154750244858,
+  "f1": 57.80410524865683,
+  "bacc": 57.346842701027214
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "MLP(T+I)",
+  "seed": 1,
+  "pred_fake": 81.09696376101861,
+  "f1": 37.067487482462944,
+  "bacc": 54.84279623811186
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "MLP(T+I)",
+  "seed": 2,
+  "pred_fake": 72.86973555337904,
+  "f1": 43.816246272634295,
+  "bacc": 58.08102446919927
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "MLP(T+I+K)",
+  "seed": 42,
+  "pred_fake": 68.65817825661117,
+  "f1": 46.02011361180575,
+  "bacc": 58.41426259164049
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "MLP(T+I+K)",
+  "seed": 1,
+  "pred_fake": 71.4005876591577,
+  "f1": 42.86546671281874,
+  "bacc": 55.80469072328541
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "MLP(T+I+K)",
+  "seed": 2,
+  "pred_fake": 71.4005876591577,
+  "f1": 45.22152994115611,
+  "bacc": 59.04503475197562
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "Tip(T+I)",
+  "seed": 42,
+  "pred_fake": 64.34867776689521,
+  "f1": 40.992994746059544,
+  "bacc": 49.09073598019613
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "Tip(T+I)",
+  "seed": 1,
+  "pred_fake": 66.79725759059745,
+  "f1": 41.40163081613395,
+  "bacc": 50.994424873316625
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "Tip(T+I)",
+  "seed": 2,
+  "pred_fake": 64.54456415279138,
+  "f1": 40.82195510950325,
+  "bacc": 48.962201275825954
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "FCP-fixed",
+  "seed": 42,
+  "pred_fake": 39.17727717923604,
+  "f1": 53.57837246555805,
+  "bacc": 55.88641340569362
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "FCP-fixed",
+  "seed": 1,
+  "pred_fake": 34.37806072477963,
+  "f1": 58.92790706326618,
+  "bacc": 60.92571434616565
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "FCP-fixed",
+  "seed": 2,
+  "pred_fake": 40.45053868756121,
+  "f1": 56.654304367719,
+  "bacc": 59.911453870322774
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "FCP-tuned",
+  "seed": 42,
+  "pred_fake": 39.17727717923604,
+  "f1": 53.57837246555805,
+  "bacc": 55.88641340569362
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "FCP-tuned",
+  "seed": 1,
+  "pred_fake": 27.13026444662096,
+  "f1": 59.7503285151117,
+  "bacc": 60.28092502671194
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "4",
+  "method": "FCP-tuned",
+  "seed": 2,
+  "pred_fake": 28.207639569049952,
+  "f1": 59.91542249492423,
+  "bacc": 60.65409882890602
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "LP(T)",
+  "seed": 42,
+  "pred_fake": 56.415279138099905,
+  "f1": 51.174028115974146,
+  "bacc": 58.886878881166226
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "LP(T)",
+  "seed": 1,
+  "pred_fake": 62.29187071498531,
+  "f1": 51.360834685706514,
+  "bacc": 62.0515831455563
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "LP(T)",
+  "seed": 2,
+  "pred_fake": 49.461312438785505,
+  "f1": 56.54026399094132,
+  "bacc": 62.90980354819258
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "LP(I)",
+  "seed": 42,
+  "pred_fake": 50.34280117531832,
+  "f1": 50.98335123799146,
+  "bacc": 56.12073799020385
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "LP(I)",
+  "seed": 1,
+  "pred_fake": 71.00881488736532,
+  "f1": 41.07530356895517,
+  "bacc": 53.09144477239307
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "LP(I)",
+  "seed": 2,
+  "pred_fake": 47.5024485798237,
+  "f1": 53.67784802716309,
+  "bacc": 58.52454854168651
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "LP(T+I)",
+  "seed": 42,
+  "pred_fake": 58.27619980411362,
+  "f1": 49.402944837811916,
+  "bacc": 57.395770520592
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "LP(T+I)",
+  "seed": 1,
+  "pred_fake": 70.42115572967678,
+  "f1": 46.54038654038654,
+  "bacc": 60.227765611941564
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "LP(T+I)",
+  "seed": 2,
+  "pred_fake": 46.32713026444662,
+  "f1": 58.48963994708326,
+  "bacc": 64.15627281094291
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "LP(T+I+K)",
+  "seed": 42,
+  "pred_fake": 58.66797257590598,
+  "f1": 50.28384798099762,
+  "bacc": 58.758873126196754
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "LP(T+I+K)",
+  "seed": 1,
+  "pred_fake": 75.90597453476984,
+  "f1": 42.80068148330059,
+  "bacc": 58.78902324203668
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "LP(T+I+K)",
+  "seed": 2,
+  "pred_fake": 42.01762977473066,
+  "f1": 59.85379735835941,
+  "bacc": 64.28374961651168
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "MLP(T+I)",
+  "seed": 42,
+  "pred_fake": 12.634671890303622,
+  "f1": 56.611937415491596,
+  "bacc": 56.291059697229365
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "MLP(T+I)",
+  "seed": 1,
+  "pred_fake": 76.49363369245837,
+  "f1": 42.017129174852656,
+  "bacc": 58.13339045986861
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "MLP(T+I)",
+  "seed": 2,
+  "pred_fake": 60.52889324191969,
+  "f1": 50.09672111962441,
+  "bacc": 59.42799411808266
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "MLP(T+I+K)",
+  "seed": 42,
+  "pred_fake": 64.05484818805093,
+  "f1": 49.20175451407652,
+  "bacc": 60.08468479905213
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "MLP(T+I+K)",
+  "seed": 1,
+  "pred_fake": 76.78746327130264,
+  "f1": 41.72178759695128,
+  "bacc": 57.94058840331333
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "MLP(T+I+K)",
+  "seed": 2,
+  "pred_fake": 54.06464250734574,
+  "f1": 51.9039909619565,
+  "bacc": 58.80912331926328
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "Tip(T+I)",
+  "seed": 42,
+  "pred_fake": 64.74045053868757,
+  "f1": 41.047599421434896,
+  "bacc": 49.37372390957081
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "Tip(T+I)",
+  "seed": 1,
+  "pred_fake": 66.2095984329089,
+  "f1": 40.93845472594491,
+  "bacc": 50.02988564113957
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "Tip(T+I)",
+  "seed": 2,
+  "pred_fake": 64.44662095984329,
+  "f1": 40.90751244356986,
+  "bacc": 49.026468628011045
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "FCP-fixed",
+  "seed": 42,
+  "pred_fake": 47.89422135161606,
+  "f1": 52.7255662620448,
+  "bacc": 57.45739312577358
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "FCP-fixed",
+  "seed": 1,
+  "pred_fake": 52.98726738491675,
+  "f1": 55.07182602770838,
+  "bacc": 62.48637955293197
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "FCP-fixed",
+  "seed": 2,
+  "pred_fake": 47.796278158667974,
+  "f1": 54.082002126591675,
+  "bacc": 59.14183249230378
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "FCP-tuned",
+  "seed": 42,
+  "pred_fake": 25.759059745347702,
+  "f1": 57.437314723320156,
+  "bacc": 57.67029525955547
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "FCP-tuned",
+  "seed": 1,
+  "pred_fake": 28.50146914789422,
+  "f1": 63.73821516208188,
+  "bacc": 64.78175547727105
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "8",
+  "method": "FCP-tuned",
+  "seed": 2,
+  "pred_fake": 38.19784524975514,
+  "f1": 59.13238860541071,
+  "bacc": 62.19968897775239
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "LP(T)",
+  "seed": 42,
+  "pred_fake": 54.94613124387855,
+  "f1": 52.60952909121597,
+  "bacc": 60.1209178330001
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "LP(T)",
+  "seed": 1,
+  "pred_fake": 41.234084231145935,
+  "f1": 62.507213177820134,
+  "bacc": 67.22814645551007
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "LP(T)",
+  "seed": 2,
+  "pred_fake": 43.388834476003915,
+  "f1": 62.023229013476445,
+  "bacc": 67.4344367217832
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "LP(I)",
+  "seed": 42,
+  "pred_fake": 44.07443682664055,
+  "f1": 56.860247075221125,
+  "bacc": 61.31396320627969
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "LP(I)",
+  "seed": 1,
+  "pred_fake": 42.99706170421156,
+  "f1": 51.56546489563567,
+  "bacc": 54.46010134670517
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "LP(I)",
+  "seed": 2,
+  "pred_fake": 57.10088148873653,
+  "f1": 49.581050082834196,
+  "bacc": 57.08686407058301
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "LP(T+I)",
+  "seed": 42,
+  "pred_fake": 51.71400587659157,
+  "f1": 54.468993541447894,
+  "bacc": 61.16162577887799
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "LP(T+I)",
+  "seed": 1,
+  "pred_fake": 44.36826640548482,
+  "f1": 59.67511229526396,
+  "bacc": 64.90156251652968
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "LP(T+I)",
+  "seed": 2,
+  "pred_fake": 49.853085210577866,
+  "f1": 58.32137555665512,
+  "bacc": 65.3530208300274
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "LP(T+I+K)",
+  "seed": 42,
+  "pred_fake": 50.83251714005876,
+  "f1": 54.56918471128609,
+  "bacc": 60.929945941371244
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "LP(T+I+K)",
+  "seed": 1,
+  "pred_fake": 38.00195886385897,
+  "f1": 60.89576914912376,
+  "bacc": 64.21842436552518
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "LP(T+I+K)",
+  "seed": 2,
+  "pred_fake": 49.657198824681686,
+  "f1": 57.221259029927765,
+  "bacc": 63.86138352005247
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "MLP(T+I)",
+  "seed": 42,
+  "pred_fake": 14.593535749265426,
+  "f1": 58.95794681508967,
+  "bacc": 58.246056682217784
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "MLP(T+I)",
+  "seed": 1,
+  "pred_fake": 46.03330068560235,
+  "f1": 59.1633186537875,
+  "bacc": 64.88913220561321
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "MLP(T+I)",
+  "seed": 2,
+  "pred_fake": 57.492654260528894,
+  "f1": 52.297308044057424,
+  "bacc": 60.88022469770542
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "MLP(T+I+K)",
+  "seed": 42,
+  "pred_fake": 51.616062683643484,
+  "f1": 55.38389283672303,
+  "bacc": 62.30600780729316
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "MLP(T+I+K)",
+  "seed": 1,
+  "pred_fake": 44.07443682664055,
+  "f1": 61.6656879073484,
+  "bacc": 67.25459392554508
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "MLP(T+I+K)",
+  "seed": 2,
+  "pred_fake": 55.435847208619,
+  "f1": 53.837354899312984,
+  "bacc": 61.95981042453479
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "Tip(T+I)",
+  "seed": 42,
+  "pred_fake": 64.83839373163565,
+  "f1": 40.961724417751476,
+  "bacc": 49.30945655738572
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "Tip(T+I)",
+  "seed": 1,
+  "pred_fake": 69.53966699314398,
+  "f1": 45.59609256737941,
+  "bacc": 58.375913760089716
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "Tip(T+I)",
+  "seed": 2,
+  "pred_fake": 64.25073457394711,
+  "f1": 41.078402463318334,
+  "bacc": 49.15500333238123
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "FCP-fixed",
+  "seed": 42,
+  "pred_fake": 38.00195886385897,
+  "f1": 56.30876259770133,
+  "bacc": 58.81785098437484
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "FCP-fixed",
+  "seed": 1,
+  "pred_fake": 28.795298726738494,
+  "f1": 63.48991876859878,
+  "bacc": 64.58895342071578
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "FCP-fixed",
+  "seed": 2,
+  "pred_fake": 56.611165523996085,
+  "f1": 52.63910793752451,
+  "bacc": 60.91857352925619
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "FCP-tuned",
+  "seed": 42,
+  "pred_fake": 38.00195886385897,
+  "f1": 56.30876259770133,
+  "bacc": 58.81785098437484
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "FCP-tuned",
+  "seed": 1,
+  "pred_fake": 17.8256611165524,
+  "f1": 62.115027829313554,
+  "bacc": 61.25577877220265
+ },
+ {
+  "dataset": "gossipcop",
+  "shot": "16",
+  "method": "FCP-tuned",
+  "seed": 2,
+  "pred_fake": 9.10871694417238,
+  "f1": 59.38913079886117,
+  "bacc": 58.6046843758926
+ }
+]

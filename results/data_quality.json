@@ -1,0 +1,144 @@
+{
+  "env": {
+    "torch": "2.7.1+cu118",
+    "device": "cuda",
+    "sklearn": "1.7.0",
+    "transformers": "4.49.0"
+  },
+  "zero_shot_templates": [
+    [
+      "real news",
+      "fake news"
+    ],
+    [
+      "This is a real news article.",
+      "This is a fake news article."
+    ],
+    [
+      "a true news story",
+      "a false news story"
+    ],
+    [
+      "reliable news",
+      "misinformation"
+    ]
+  ],
+  "politifact": {
+    "n_samples": 347,
+    "image_exact_duplicate_samples": 193,
+    "image_exact_duplicate_groups": 21,
+    "image_largest_duplicate_groups": [
+      {
+        "size": 115,
+        "fake": 1,
+        "real": 114
+      },
+      {
+        "size": 18,
+        "fake": 0,
+        "real": 18
+      },
+      {
+        "size": 9,
+        "fake": 0,
+        "real": 9
+      },
+      {
+        "size": 8,
+        "fake": 0,
+        "real": 8
+      },
+      {
+        "size": 7,
+        "fake": 0,
+        "real": 7
+      },
+      {
+        "size": 4,
+        "fake": 0,
+        "real": 4
+      },
+      {
+        "size": 4,
+        "fake": 0,
+        "real": 4
+      },
+      {
+        "size": 2,
+        "fake": 0,
+        "real": 2
+      }
+    ],
+    "image_near_duplicate_samples_cos0.98": 196,
+    "image_white_like_samples_cos0.99": 2,
+    "text_near_duplicate_samples_cos0.99": 52,
+    "val_test_with_train_image_near_dup": {
+      "val": 27,
+      "test": 30
+    },
+    "val_test_with_train_text_near_dup": {
+      "val": 4,
+      "test": 4
+    },
+    "knowledge_bank_size": 791
+  },
+  "gossipcop": {
+    "n_samples": 6805,
+    "image_exact_duplicate_samples": 1231,
+    "image_exact_duplicate_groups": 322,
+    "image_largest_duplicate_groups": [
+      {
+        "size": 67,
+        "fake": 19,
+        "real": 48
+      },
+      {
+        "size": 53,
+        "fake": 0,
+        "real": 53
+      },
+      {
+        "size": 52,
+        "fake": 0,
+        "real": 52
+      },
+      {
+        "size": 47,
+        "fake": 3,
+        "real": 44
+      },
+      {
+        "size": 42,
+        "fake": 40,
+        "real": 2
+      },
+      {
+        "size": 39,
+        "fake": 3,
+        "real": 36
+      },
+      {
+        "size": 37,
+        "fake": 3,
+        "real": 34
+      },
+      {
+        "size": 25,
+        "fake": 5,
+        "real": 20
+      }
+    ],
+    "image_near_duplicate_samples_cos0.98": 1280,
+    "image_white_like_samples_cos0.99": 67,
+    "text_near_duplicate_samples_cos0.99": 784,
+    "val_test_with_train_image_near_dup": {
+      "val": 154,
+      "test": 148
+    },
+    "val_test_with_train_text_near_dup": {
+      "val": 94,
+      "test": 79
+    },
+    "knowledge_bank_size": 7602
+  }
+}

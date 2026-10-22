@@ -1,0 +1,3 @@
+﻿dataset,image_available_total,used_total,fake,real,avg_words,train,val,test,train_fake,val_fake,test_fake,seed,subsampled_to
+politifact,347,347,102,245,1443.2,242,52,53,71,15,16,42,
+gossipcop,12399,6805,1619,5186,845.9,4763,1021,1021,1133,243,243,42,6805.0

@@ -1,0 +1,21 @@
+{
+  "politifact": {
+    "entries": 791,
+    "source_articles": 752,
+    "train": 205,
+    "val": 45,
+    "test": 46,
+    "not_used": 456,
+    "used_items": 347
+  },
+  "gossipcop": {
+    "entries": 7602,
+    "source_articles": 17719,
+    "train": 4376,
+    "val": 955,
+    "test": 932,
+    "not_used": 11456,
+    "used_items": 6805
+  },
+  "note": "Distinct source article ids listed in knowledge/wikidata_knowledge_<ds>_filtered.csv (column source_sample_ids), mapped to the train/val/test ids of cache/clip/<ds>_<split>.pt; computed with kb_sources.py on the project machine, 2026-09-15."
+}

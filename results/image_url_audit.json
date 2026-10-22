@@ -1,0 +1,135 @@
+{
+  "politifact": {
+    "n": 347,
+    "categories": {
+      "other_shared_url": {
+        "n": 19,
+        "real": 17,
+        "fake": 2,
+        "test": 1
+      },
+      "archive_toolbar_logo": {
+        "n": 115,
+        "real": 114,
+        "fake": 1,
+        "test": 23
+      },
+      "unique_url": {
+        "n": 134,
+        "real": 49,
+        "fake": 85,
+        "test": 20
+      },
+      "logo_or_placeholder_url": {
+        "n": 54,
+        "real": 42,
+        "fake": 12,
+        "test": 7
+      },
+      "factcheck_rating_graphic": {
+        "n": 25,
+        "real": 23,
+        "fake": 2,
+        "test": 2
+      }
+    },
+    "rating_graphics": {
+      "other": {
+        "real": 0,
+        "fake": 2
+      },
+      "true": {
+        "real": 8,
+        "fake": 0
+      },
+      "mostly-true": {
+        "real": 9,
+        "fake": 0
+      },
+      "mostly-false": {
+        "real": 4,
+        "fake": 0
+      },
+      "false": {
+        "real": 2,
+        "fake": 0
+      }
+    },
+    "top_shared_urls": [
+      [
+        "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png",
+        115
+      ],
+      [
+        "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+        18
+      ],
+      [
+        "https://static.politifact.com/politifact/rulings/meter-mostly-true.jpg",
+        9
+      ],
+      [
+        "https://static.politifact.com/politifact/rulings/meter-true.jpg",
+        8
+      ],
+      [
+        "http://transcripts.cnn.com/assets/header.transcripts.gif",
+        7
+      ],
+      [
+        "https://static.politifact.com/politifact/rulings/meter-mostly-false.jpg",
+        4
+      ]
+    ]
+  },
+  "gossipcop": {
+    "n": 6805,
+    "categories": {
+      "unique_url": {
+        "n": 5169,
+        "real": 3940,
+        "fake": 1229,
+        "test": 801
+      },
+      "other_shared_url": {
+        "n": 893,
+        "real": 671,
+        "fake": 222,
+        "test": 125
+      },
+      "logo_or_placeholder_url": {
+        "n": 743,
+        "real": 575,
+        "fake": 168,
+        "test": 95
+      }
+    },
+    "rating_graphics": {},
+    "top_shared_urls": [
+      [
+        "https://wstale.com/wp-content/uploads/2023/12/Christmas-Number-One-odds-The-songs-tipped-to-take-the-2023-festive-crown-revealed-The-Sun-700x496.jpg",
+        53
+      ],
+      [
+        "https://www.usmagazine.com/wp-content/themes/us-weekly/assets/img/us-placeholder.svg?quality=86&strip=all",
+        52
+      ],
+      [
+        "https://ecdn4.wn.com/or/assets/assets/wn/img/logo.png",
+        52
+      ],
+      [
+        "https://popculture.com/wp-content/uploads/sites/5/2021/03/14024377-87b5-44da-926d-abcee03cd657.png?w=640",
+        47
+      ],
+      [
+        "https://www.usatoday.com/tangstatic/sites/usat/og-image-q1a2z3fb72acfa.png",
+        39
+      ],
+      [
+        "https://static.tmz.com/tmz-web/img/sections/home/og-image-1200x630-v1.png",
+        37
+      ]
+    ]
+  }
+}
