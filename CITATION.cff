@@ -3,6 +3,7 @@ message: "If you use this repository, please cite the associated manuscript and 
 title: "Frozen CLIP fake-news fusion analysis"
 version: "0.1.0"
 date-released: 2026-10-22
+license: MIT
 authors:
   - family-names: Gu
     given-names: Hang

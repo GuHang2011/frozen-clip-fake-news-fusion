@@ -81,4 +81,4 @@ If you use this repository, cite the manuscript and the repository version. A `C
 
 ## License
 
-No open-source license has been selected in this working copy. The authors should add and confirm a license before public release; until then, the contents remain under the authors' default copyright.
+The contents of this repository are licensed under the MIT License; see [`LICENSE`](LICENSE). This license does not grant rights to third-party articles, images, social-media content, or other material governed by separate terms. The supplied derived results support research reproducibility and do not include the original articles or images.
